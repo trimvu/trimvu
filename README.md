@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Marvel](marvel-trimvu.vercel.app)
 
+- 🔭 I’m currently working on [MTG](https://github.com/trimvu/mtg)
+
 - 🌱 I’m currently learning **Algorithms, AWS, Amplify, Mocha**
 
 - 👯 I’m collaborating on [Fox-Flip](https://main.d3k64qny3tu1ka.amplifyapp.com/)
