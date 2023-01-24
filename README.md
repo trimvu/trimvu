@@ -17,6 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/trimvu](https://github.com/trimvu)
 
+- 👋 View my web development portfolio at [https://tri-vu-dev.netlify.app/](https://tri-vu-dev.netlify.app/)
+
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **vutriminh@gmail.com**
