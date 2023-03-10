@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning **Algorithms, interview questions, AWS, Amplify, Mocha**
 
-- 👯 I’m collaborating on [Fox-Flip](https://main.d3k64qny3tu1ka.amplifyapp.com/)
-
-- 👯 I’m collaborating on [Fox-Flip Server](https://github.com/DezSays/Fox-Flip-Server)
-
 - 👨‍💻 All of my projects are available at [https://github.com/trimvu](https://github.com/trimvu)
 
 - 👋 View my web development portfolio at [https://tri-vu-dev.netlify.app/](https://tri-vu-dev.netlify.app/)
