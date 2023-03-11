@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [MTG](https://github.com/trimvu/mtg)
 
+- 🔭 I'm currently working on a personal photography portfolio
+
 - 🌱 I’m currently learning **Algorithms, interview questions, AWS, Amplify, Mocha**
 
 - 👨‍💻 All of my projects are available at [https://github.com/trimvu](https://github.com/trimvu)
