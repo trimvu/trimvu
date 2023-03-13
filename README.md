@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trimvu" alt="trimvu" /></a> </p>
 
-- 🔭 I’m currently working on [Marvel](https://github.com/trimvu/Marvel)
+- 🔭 I’m currently working on [Marvel](https://marvel-trimvu.vercel.app/)
 
 - 🔭 I’m currently working on [MTG](https://github.com/trimvu/mtg)
 
