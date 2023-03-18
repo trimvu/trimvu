@@ -11,6 +11,8 @@
 
 - 🔭 I'm currently working on a personal photography portfolio
 
+- 🔭 I'm currently working on [W2W](https://github.com/trimvu/w2w)
+
 - 🌱 I’m currently learning **Algorithms, interview questions, AWS, Amplify, Mocha**
 
 - 👨‍💻 All of my projects are available at [https://github.com/trimvu](https://github.com/trimvu)
