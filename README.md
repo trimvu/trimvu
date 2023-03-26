@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MTG](https://github.com/trimvu/mtg)
 
-- 🔭 I'm currently working on a personal photography portfolio
+- 🔭 I'm currently working on [a personal photography portfolio](https://github.com/trimvu/photography-portfolio)
 
 - 🔭 I'm currently working on [W2W](https://github.com/trimvu/w2w)
 
