@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Marvel](https://marvel-trimvu.vercel.app/)
 
-- 🔭 I’m currently working on [MTG](https://github.com/trimvu/mtg)
+- 🔭 I’m currently working on [MTG](https://mtg.herokuapp.com/)
 
 - 🔭 I'm currently working on [a personal photography portfolio](https://github.com/trimvu/photography-portfolio)
 
