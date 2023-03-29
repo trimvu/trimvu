@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently working on [W2W](https://github.com/trimvu/w2w)
 
-- 🌱 I’m currently learning **Algorithms, interview questions, AWS, Amplify, Mocha**
+- 🌱 I’m currently learning **Algorithms, interview questions, AWS, Amplify, Unit Testing, Mocha**
 
 - 👨‍💻 All of my projects are available at [https://github.com/trimvu](https://github.com/trimvu)
 
