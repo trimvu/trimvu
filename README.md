@@ -5,17 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trimvu" alt="trimvu" /></a> </p>
 
-- 🔭 I’m currently working on [Marvel](https://marvel-trimvu.vercel.app/)
-
-- 🔭 I’m currently working on [MTG](https://mtg.herokuapp.com/)
-
 - 🔭 I'm currently working on [a personal photography portfolio](https://github.com/trimvu/photography-portfolio)
 
-- 🔭 I'm currently working on [W2W](https://github.com/trimvu/w2w)
-
-- 🌱 I’m currently learning **Algorithms, interview questions, AWS, Amplify, Unit Testing, Mocha**
-
-- 👨‍💻 All of my projects are available at [https://github.com/trimvu](https://github.com/trimvu)
+- 🌱 I’m currently learning **Algorithms and Java**
 
 - 👋 View my web development portfolio at [https://tri-vu-dev.netlify.app/](https://tri-vu-dev.netlify.app/)
 
@@ -27,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tri-vu-3077b7237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tri-vu-3077b7237" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tri-minh-vu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tri-minh-vu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
