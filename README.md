@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trimvu" alt="trimvu" /></a> </p>
 
-- 🔭 I'm currently working on [a personal photography portfolio](https://github.com/trimvu/photography-portfolio)
+- 🔭 I'm currently working on [a personal photography portfolio](https://tri-vu-photography.vercel.app/)
 
-- 🌱 I’m currently learning **Algorithms and Java**
+- 🌱 I’m currently learning **AWS and Java**
 
 - 👋 View my web development portfolio at [https://tri-vu-dev.netlify.app/](https://tri-vu-dev.netlify.app/)
 
